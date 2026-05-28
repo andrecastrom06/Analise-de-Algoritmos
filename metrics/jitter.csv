@@ -1,0 +1,7 @@
+buffer_type,frequency_hz,duration_s,avg_removal_time_us,max_removal_time_us,data_consumed,throughput_msg_per_sec
+ring,100,2,3.223834196891192,35.9,193,96.5
+inefficient,100,2,2.9968749999999997,42.1,192,96.0
+ring,500,3,1.5767441860465115,6.6,86,28.67
+inefficient,500,3,3.711627906976744,21.1,86,28.67
+ring,1000,5,1.570909090909091,3.2,55,11.0
+inefficient,1000,5,7.743636363636363,31.7,55,11.0
