@@ -1,7 +1,5 @@
 # 🎯 Sistema de Telemetria: Buffer Circular O(1) vs O(n)
 
-> **Projeto Completo** - Etapas 2-14 Implementadas
->
 > Comparação experimental de Buffer Circular (O(1)) com Buffer Ineficiente (O(n)) em sistema de telemetria distribuído.
 
 ---
@@ -629,12 +627,10 @@ ls metrics/
 
 ## 👥 Autor
 
-Desenvolvido como projeto educacional de telemetria em sistemas embarcados.
-
-## 📄 Licença
-
-Este projeto é fornecido "como está" para fins educacionais.
-
----
-
-**Última atualização:** 2024
+* André Castro
+* Caio Lima
+* Felipe Caminha
+* José Braz
+* Miguel Becker
+* Lucas Sukar
+* Rodrigo Torres
